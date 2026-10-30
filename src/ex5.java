@@ -11,7 +11,6 @@ public class ex5 {
         int mejor = 0;
         int peor = 10;
 
-        // Introducir las notas
         for (int i = 0; i < 20; i++) {
             System.out.println("Alumno " + (i + 1));
 
